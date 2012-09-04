@@ -1,0 +1,42 @@
+/*   
+Theme Name: Responsive Child Theme
+Theme URI: http://themeid.com/responsive-theme
+Description: Responsive Child Theme
+Author: Emil Uzelac
+Author URI: http://themeid.com
+Template: responsive
+Version: 1.0
+*/
+
+/* Import Responsive Styles */
+@import url('../responsive/style.css');
+
+/* =Start Here
+-------------------------------------------------------------- */
+
+
+
+
+/* =Responsive Design
+    Media Queries
+-------------------------------------------------------------- */
+@media screen and (max-width: 980px) {
+}
+
+@media screen and (max-width: 650px) {
+}
+
+@media screen and (max-width: 480px) {
+}
+
+@media screen and (max-width: 320px) {
+}
+
+@media screen and (max-width: 240px) {
+}
+/*"The last 29 days of the month are the hardest."- Nikola Tesla*/
+
+.navigation {
+    width: 60%;
+}
+
